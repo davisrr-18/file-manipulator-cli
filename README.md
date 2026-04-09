@@ -18,4 +18,4 @@ A robust command-line tool built with Python to manage text files. This project 
 # How to use
 1. Clone the repository:
    ```bash
-   https://github.com/davisrr-18/file-manipulator-cli
+git clone [https://github.com/davisrr-18/file-manipulator-cli.git]
