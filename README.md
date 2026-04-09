@@ -19,3 +19,7 @@ A robust command-line tool built with Python to manage text files. This project 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/davisrr-18/file-manipulator-cli.git](https://github.com/davisrr-18/file-manipulator-cli.git)
+
+2. Run the script:
+   ```bash
+   File Manager.py
